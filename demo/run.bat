@@ -1,0 +1,1 @@
+java -Xmx1590m -jar rlsi.jar -d Example
